@@ -15,7 +15,7 @@ This SDK uses the following libraries as dependencies:
 Android SDK version 15 or higher.
 
 ## Download
-You can download the latest AAR [here](https://dl.bintray.com/ifttt/maven/com/ifttt/ifttt-sdk-android/0.0.1/:ifttt-sdk-android-0.0.1.aar) or via Gradle:
+You can download the latest AAR [here](https://bintray.com/ifttt/maven/download_file?file_path=com%2Fifttt%2Fifttt-sdk-android%2F0.0.1%2Fifttt-sdk-android-0.0.1.aar) or via Gradle:
 ```groovy
 implementation 'com.ifttt:ifttt-sdk-android:0.0.1'
 ```
