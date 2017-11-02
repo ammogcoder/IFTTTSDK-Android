@@ -15,7 +15,10 @@ This SDK uses the following libraries as dependencies:
 Android SDK version 15 or higher.
 
 ## Download
-You can download the latest AAR [here](https://github.com/IFTTT/IFTTTSDK-Android/raw/master/library/ifttt-sdk.aar).
+You can download the latest AAR [here](https://dl.bintray.com/ifttt/maven/com/ifttt/ifttt-sdk-android/0.0.1/:ifttt-sdk-android-0.0.1.aar) or via Gradle:
+```groovy
+implementation 'com.ifttt:ifttt-sdk-android:0.0.1'
+```
 
 ## Example app
 There is an example app in this repository to demonstrate how to use the SDK and your backend to integrate the IFTTT API on Android. You can find the example app [here](https://github.com/IFTTT/IFTTTSDK-Android/tree/master/app).
